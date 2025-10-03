@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
-const GOOGLE_API_KEY = "AIzaSyCoPUrfu6TqUpXZpLd2c0A0n__vCjTkrRY"; // Use your API key
-const GOOGLE_CX = "11af82970860d4bbc"; // Use your Custom Search Engine ID (CX)
+const GOOGLE_API_KEY = "api key"; // Use your API key
+const GOOGLE_CX = "cx"; // Use your Custom Search Engine ID (CX)
 
 
 const AiTool: React.FC = () => {
